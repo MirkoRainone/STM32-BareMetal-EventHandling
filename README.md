@@ -5,9 +5,8 @@ Welcome to the second stage of my **STM32 Bare-Metal Programming** journey. This
 Instead of wasting CPU cycles with continuous polling, I am now leveraging the internal hardware controllers (**NVIC**, **EXTI**, **SYSCFG**) to handle real-time events efficiently.
 
 ## 🚀 Learning Path: Level 2
-- [x] **04 - Interrupts (EXTI & NVIC):** Handling external signals without blocking the CPU.
-- [ ] **05 - Hardware Timers (SysTick & TIMx):** Creating precise delays and periodic events.
-- [ ] **06 - PWM (Pulse Width Modulation):** Controlling LED brightness and motor speed.
+* [**04 - Interrupts (EXTI & NVIC):**](/05-BareMetal-Hardware-Interrupt-F401RE/) : Handling external signals without blocking the CPU.
+
 
 ---
 
