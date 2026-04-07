@@ -10,5 +10,4 @@ Instead of wasting CPU cycles with continuous polling, I am now leveraging the i
 
 ---
 
-## 📂 Featured Exercise: EXTI4 Hardware Interrupt
-In this exercise, I configured an external trigger on pin **PB4** to toggle the onboard Green LED (**PA5**) using a **Rising Edge** interrupt.
+
