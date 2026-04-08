@@ -1,0 +1,2 @@
+../Src/main.c:46:6:EXTI15_10_IRQHandler	4	static
+../Src/main.c:68:5:main	4	static

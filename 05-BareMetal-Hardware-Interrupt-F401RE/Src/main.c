@@ -29,7 +29,7 @@
 #define RCC_APB2ENR (*(volatile uint32_t *)0x40023844) // System Configuration Clock Enable
 
 // GPIO Registers
-#define GPIOA_MODER (*(volatile uint32_t *)0x40020000) // Mode register for Port A
+#define GPIOA_MODER (*(volatile uint32_t *)0x40023844) // Mode register for Port A
 #define GPIOA_ODR   (*(volatile uint32_t *)0x40020014) // Output data register for Port A
 #define GPIOB_MODER (*(volatile uint32_t *)0x40020400) // Mode register for Port B
 
