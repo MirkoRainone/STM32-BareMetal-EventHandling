@@ -8,6 +8,6 @@ Instead of wasting CPU cycles with continuous polling, I am now leveraging the i
 * [**05 - Interrupts (EXTI & NVIC):**](/05-BareMetal-Hardware-Interrupt-F401RE/) : Handling external signals without blocking the CPU.
 * [**06 - Shared Interrupts & Internal Pull-Ups:**](/06-BareMetal-ModeSelector-F401RE/) : How to handle multiple External Interrupts (EXTI) that share the same hardware Interrupt Request (IRQ).
 * [**07 - Blink Rate Controller: Pure Bare-Metal SysTick & EXTI:**](/07-BareMetal-BlinkRateController-SysTick-F401RE/) : The goal is to demonstrate the concurrent management of time and asynchronous events
----
+* [**08 - General Purpose Hardware Timers (TIMx):**](/08-BareMetal-LED-Blinker-TIMx-F401RE/) : To blink the on-board LED (PA5) exactly every 500 milliseconds using `TIM2` interrupts.
 
 
